@@ -76,7 +76,8 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-API_URL = "https://churn-risk-dashboard.streamlit.app/"
+API_URL = "https://churn-backend-api-nxc0.onrender.com"
+
 
 
 # -----------------------------
