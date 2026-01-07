@@ -76,7 +76,8 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-API_URL = "https://churn-backend-api-nxc0.onrender.com"
+API_URL = "https://churn-backend-api-nxc0.onrender.com/predict"
+
 
 
 
