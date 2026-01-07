@@ -76,7 +76,8 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-API_URL = "http://localhost:8000/predict"
+API_URL = "https://churn-risk-dashboard.streamlit.app/"
+
 
 # -----------------------------
 # Sidebar settings
