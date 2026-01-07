@@ -12,7 +12,7 @@ An end-to-end **machine learning decision-support system** that predicts custome
 
 ## 🚀 Project Overview
 
-Customer churn is a critical business problem where **false negatives are costly** — missing a customer who is about to leave can mean lost revenue.
+Customer churn is a critical business problem where **false negatives are costly** , which means missing a customer who is about to leave can result in a loss in revenue.
 
 This project goes beyond a simple classifier by:
 
